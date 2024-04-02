@@ -31,7 +31,7 @@ pnpm run start
 
 <h2>Licence</h2>
 
-This project uses [MIT Licence](https://github.com/AEIS-FIS-EPN/kevin-martinez-aws-portfolio/blob/main/LICENSE).
+This project uses [MIT Licence](https://github.com/AEIS-FIS-EPN/kevin-martinez-aws-portfolio/blob/master/LICENSE).
 
 <h2>Author</h2>
 
